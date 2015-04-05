@@ -1,0 +1,10 @@
+*.DS_Store
+
+.sass-cache
+
+*.sublime-*
+
+stylesheets/_base.scss
+stylesheets/_global.scss
+stylesheets/_layout.scss
+stylesheets/style.scss
