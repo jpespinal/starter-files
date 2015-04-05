@@ -1,0 +1,62 @@
+/*  This is a starter page where a project is started from. Includes initial
+settings for tools, color and typographic variables, base CSS styles that behave
+like a custom normalize/reset file. */
+/* ============================================================
+ Initial Settings.
+ ============================================================ */
+/* ============================================================
+ Typefaces / Fonts.
+ ============================================================ */
+/* ============================================================
+ Color Variables.
+ ============================================================ */
+/* ============================================================
+ CSS Base Styles.
+ ============================================================ */
+html {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
+
+body {
+  font-size: 16px;
+  line-height: 1.5; }
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote, figure, ol, ul, button {
+  margin: 0;
+  padding: 0; }
+
+h1, h2, h3, h4, h5, h6, p {
+  font-size: inherit; }
+
+ul, ol {
+  list-style: none; }
+
+a, button {
+  color: inherit;
+  transition: 0.2s;
+  -moz-transition: 0.2s;
+  -webkit-transition: 0.2s; }
+
+a {
+  text-decoration: none; }
+
+img {
+  border: 0;
+  max-width: 100%; }
+
+strong {
+  font-weight: bold; }
+
+sup {
+  position: relative;
+  top: -0.5em;
+  font-size: 65%;
+  line-height: 0;
+  vertical-align: baseline; }
+
+/* This is the global page where styles are defined. */
+/* This is the layout page where media query styles are defined. */
+
+/*# sourceMappingURL=style.css.map */

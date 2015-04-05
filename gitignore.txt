@@ -4,6 +4,9 @@
 .sass-cache/
 (Sass cache file created when using Sass.)
 
+*.map
+(Sass .map file for debugging Sass in browser Dev Tools.)
+
 *.sublime-*  
 (Sublime Text Project and Workspace files from being uploaded.)
 
