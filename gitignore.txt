@@ -10,10 +10,17 @@
 *.sublime-*  
 (Sublime Text Project and Workspace files from being uploaded.)
 
-stylesheets/_base.scss (Base partial Sass file.)
-stylesheets/_global.scss (Global partial Sass file.)
-stylesheets/_layout.scss (Layout partial Sass file.)
-stylesheets/style.scss (Sass file that gets processed into CSS.)
+stylesheets/_base.scss
+(Base partial Sass file.)
+
+stylesheets/_global.scss
+(Global partial Sass file.)
+
+stylesheets/_layout.scss
+(Layout partial Sass file.)
+
+stylesheets/style.scss
+(Sass file that gets processed into CSS.)
 
 bower_components/
 (Folder containing installed Bower components.)
